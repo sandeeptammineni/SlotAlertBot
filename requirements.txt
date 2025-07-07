@@ -1,0 +1,2 @@
+undetected-chromedriver
+python-telegram-bot>=20
